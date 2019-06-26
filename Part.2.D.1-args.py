@@ -29,10 +29,10 @@ def is_leap(year):
             leap = False
     return leap 
 
-leap(7)
-leap(12)
-leap(100)
-leap(400)
+is_leap(7)
+is_leap(12)
+is_leap(100)
+is_leap(400)
 
 
 def _is_leap(year):

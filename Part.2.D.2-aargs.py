@@ -97,5 +97,3 @@ def say_hi(*names, greeting='hi', capitalized=False):
 
 say_hi('mike', 'ann', 'joe')
 say_hi('mike', 'ann', 'joe', greeting='hello')
-	
-
